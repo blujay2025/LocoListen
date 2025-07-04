@@ -12,6 +12,6 @@ The purpose of this application is to allow users to click on any location on th
 - Database: PostgreSQL (for playlist data caching per country)
 - Containerization: Docker
 - Cloud Hosting: Amazon Elastic Compute Cloud (Amazon EC2)
-- APIs Used: Spotify (to retrieve playlists), Gemini (to filter the most accurate playlist from retrieved Spotify playlists), OpenCage (to convert latitude, longitude pairs into 2-digit ISO country codes)
+- APIs: Spotify (to retrieve playlists), Gemini (to filter the most accurate playlist from retrieved Spotify playlists), OpenCage (to convert latitude, longitude pairs into 2-digit ISO country codes)
   
 Created by Ajay Kumar: <ajay.kumar.6703@gmail.com>
